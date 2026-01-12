@@ -1,4 +1,4 @@
-# My Structure - Srudent 13
+# My Structure - Student 13
 
 ## What I See in My Data
 V-V-V-V-V-V
